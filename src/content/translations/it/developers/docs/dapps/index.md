@@ -49,6 +49,13 @@ Un contratto intelligente è codice che risiede sulla blockchain di Ethereum e o
 
 ## Strumenti per creare le dApp {#dapp-tools}
 
+**Crea Web3 Dapp _- La cassetta degli attrezzi completa per creare applicazioni web3._**
+
+- [Github](https://github.com/alchemyplatform/create-web3-dapp)
+- [Sito web](https://createweb3dapp.alchemy.com/)
+- [Documentazione](https://docs.alchemy.com/docs/create-web3-dapp)
+- [Esempi di Dapps](https://github.com/alchemyplatform/create-web3-dapp-examples)
+
 **Scaffold-ETH _ Sperimenta rapidamente con Solidity utilizzando un frontend che si adatta al tuo contratto intelligente._**
 
 - [GitHub](https://github.com/austintgriffith/scaffold-eth)
